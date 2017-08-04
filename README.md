@@ -1,6 +1,6 @@
 
 ----------------------------------------------------------------------------
-fontStyle 
+FontStyle 
 	To use in project, choose from fontStyle below, and then add to fontStyle element:
 	
 	<Text style={{ fontStyle: 'italic' }}>Text with 'italic' fontStyle!</Text>
@@ -9,7 +9,7 @@ fontStyle
 	'italic'
 
 ----------------------------------------------------------------------------
-fontWeight 
+FontWeight 
 	To use in project, choose from fontWeight below, and then add to fontWeight element:
 	
 	<Text style={{ fontWeight: 'bold' }}>Bold Text!</Text>
@@ -29,13 +29,13 @@ fontWeight
 	{ fontWeight: '900' }, // Black
 	
 ----------------------------------------------------------------------------
-color 
+Color 
 	To use in project, add to style element:
 	
 	<Text style={{ color: '#DD5044' }}>Colored Text!</Text>
 	
 ----------------------------------------------------------------------------
-fontFamily 
+FontFamily 
 	To use in project, choose from font below, and then add to style element:
 	
 	<Text style={{ fontFamily: '<FONT_NAME>' }}>Text with Font family</Text>
