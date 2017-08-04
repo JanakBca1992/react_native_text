@@ -38,7 +38,7 @@ Color
 FontFamily 
 	To use in project, choose from font below, and then add to style element:
 	
-	<Text style={{ fontFamily: '<FONT_NAME>' }}>Text with Font family</Text>
+	<Text style={{ fontFamily: 'monospace' }}>Text with Font family</Text>
 
 	Android
 	------------------
