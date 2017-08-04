@@ -1,6 +1,7 @@
+react_native_text example with FontStyle, FontWeight, Color and FontFamily.
 
 ----------------------------------------------------------------------------
-FontStyle 
+FontStyle:- 
 	To use in project, choose from fontStyle below, and then add to fontStyle element:
 	
 	<Text style={{ fontStyle: 'italic' }}>Text with 'italic' fontStyle!</Text>
@@ -9,7 +10,7 @@ FontStyle
 	'italic'
 
 ----------------------------------------------------------------------------
-FontWeight 
+FontWeight:- 
 	To use in project, choose from fontWeight below, and then add to fontWeight element:
 	
 	<Text style={{ fontWeight: 'bold' }}>Bold Text!</Text>
@@ -29,13 +30,13 @@ FontWeight
 	{ fontWeight: '900' }, // Black
 	
 ----------------------------------------------------------------------------
-Color 
+Color:- 
 	To use in project, add to style element:
 	
 	<Text style={{ color: '#DD5044' }}>Colored Text!</Text>
 	
 ----------------------------------------------------------------------------
-FontFamily 
+FontFamily:- 
 	To use in project, choose from font below, and then add to style element:
 	
 	<Text style={{ fontFamily: 'monospace' }}>Text with Font family</Text>
