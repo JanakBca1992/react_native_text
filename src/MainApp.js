@@ -3,19 +3,24 @@ import { StyleSheet, Text, View} from 'react-native';
 
 const MainApp = () => (
     <View style={styles.container}>
+        {/* Normal text */}
         <Text style={styles.normalText}>
           Normal Text!
         </Text>
+        {/* Bold text */}
         <Text style={styles.boldText}>
           Bold Text!
         </Text>
+        {/* Colored text */}
         <Text style={styles.coloredText}>
           Colored Text!
         </Text>
+        {/* Text with monospace fontStyle */}
         <Text style={styles.fontText}>
           Text with 'monospace' fontFamily!
         </Text>
-         <Text style={styles.fontStyle}>
+        {/* Text with italic fontStyle */}
+        <Text style={styles.fontStyle}>
           Text with 'italic' fontStyle!
         </Text>
     </View>
