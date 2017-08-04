@@ -1,6 +1,7 @@
 
 fontStyle 
 	To use in project, choose from fontStyle below, and then add to fontStyle element:
+	
 	<Text style={{ fontStyle: 'italic' }}>Text with 'italic' fontStyle!</Text>
 	
 	'normal' 
@@ -26,11 +27,13 @@ fontWeight
 ----------------------------------------------------------------------------
 color 
 	To use in project, add to style element:
+	
 	<Text style={{ color: '#DD5044' }}>Colored Text!</Text>
 	
 ----------------------------------------------------------------------------
 fontFamily 
 	To use in project, choose from font below, and then add to style element:
+	
 	<Text style={{ fontFamily: '<FONT_NAME>' }}>Text with Font family</Text>
 
 	Android
