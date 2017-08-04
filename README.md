@@ -1,4 +1,5 @@
 
+----------------------------------------------------------------------------
 fontStyle 
 	To use in project, choose from fontStyle below, and then add to fontStyle element:
 	
@@ -10,7 +11,10 @@ fontStyle
 ----------------------------------------------------------------------------
 fontWeight 
 	To use in project, choose from fontWeight below, and then add to fontWeight element:
+	
 	<Text style={{ fontWeight: 'bold' }}>Bold Text!</Text>
+	
+	fontWeight in Different style
 	
 	{ fontWeight: 'normal' }, // Normal
 	{ fontWeight: 'bold' }, // Bold
